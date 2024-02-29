@@ -8,15 +8,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3fc0bf1-5842-48c5-b443-b1f2d0175415" name="Changes" comment="first commit">
+    <list default="true" id="c3fc0bf1-5842-48c5-b443-b1f2d0175415" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JobnetPrompt/JobnetPrompt.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/JobnetPrompt.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/JobnetPrompt.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/JobnetPrompt.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/JobnetPrompt.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/JobnetPrompt.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/JobnetPrompt.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/JobnetPrompt.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JobnetPrompt/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/JobnetPrompt/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1709210434072" duration="786000" />
       <workItem from="1709214588105" duration="2872000" />
       <workItem from="1709219618137" duration="965000" />
-      <workItem from="1709221005753" duration="1292000" />
+      <workItem from="1709221005753" duration="1519000" />
     </task>
     <servers />
   </component>
