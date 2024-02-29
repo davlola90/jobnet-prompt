@@ -7,8 +7,14 @@ public interface IRagFetcher
     Task<string> PerformRagAsync(string? query);
 }
 
-public class RagFetcher(HttpClient client) : IRagFetcher
+public class RagFetcher : IRagFetcher
 {
+    private readonly HttpClient _client;
+
+    public RagFetcher(HttpClient client)
+    {
+        _client = client;
+    }
     public async Task<string> PerformRagAsync(string? query)
     {
         try
@@ -18,10 +24,10 @@ public class RagFetcher(HttpClient client) : IRagFetcher
             var baseUrl = "https://api.ydc-index.io/rag";
             var requestUri = $"{baseUrl}?query={query}?country=se";
 
-            client.DefaultRequestHeaders.Clear();
-            client.DefaultRequestHeaders.Add("X-API-Key", apiKey);
+            _client.DefaultRequestHeaders.Clear();
+            _client.DefaultRequestHeaders.Add("X-API-Key", apiKey);
 
-            var response = await client.GetAsync(requestUri);
+            var response = await _client.GetAsync(requestUri);
             response.EnsureSuccessStatusCode();
             string content = await response.Content.ReadAsStringAsync();
             JObject json = JObject.Parse(content);
