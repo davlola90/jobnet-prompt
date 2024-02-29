@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobnetPrompt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+885247ed59857b5b7b10251d2f62cb9e9d0e2a1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobnetPrompt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobnetPrompt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

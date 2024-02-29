@@ -3,7 +3,6 @@
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.AssemblyInfoInputs.cache
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.AssemblyInfo.cs
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.csproj.CoreCompileInputs.cache
-/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.MvcApplicationPartsAssemblyInfo.cs
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.MvcApplicationPartsAssemblyInfo.cache
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/JobnetPrompt.sourcelink.json
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/appsettings.Development.json
@@ -13,11 +12,7 @@
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/JobnetPrompt.runtimeconfig.json
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/JobnetPrompt.dll
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/JobnetPrompt.pdb
-/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/Newtonsoft.Json.dll
-/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/staticwebassets.build.json
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/staticwebassets.development.json
 /Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/obj/Debug/net6.0/staticwebassets/msbuild.JobnetPrompt.Microsoft.AspNetCore.StaticWebAssets.props
