@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OBB6kekQK02koQMBkLlPY3gCBEeOKFCZ7VKssmXBxdw=",
+  "Source": "JobnetPrompt",
+  "BasePath": "_content/JobnetPrompt",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

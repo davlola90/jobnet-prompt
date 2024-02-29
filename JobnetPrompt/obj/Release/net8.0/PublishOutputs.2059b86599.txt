@@ -1,0 +1,12 @@
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/JobnetPrompt
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/appsettings.json
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/JobnetPrompt.dll
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/JobnetPrompt.deps.json
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/JobnetPrompt.runtimeconfig.json
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/JobnetPrompt.pdb
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

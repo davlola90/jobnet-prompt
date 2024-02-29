@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+crWJ8y/cwMDg40kwumBow61mgJKerIfi/GoH3v78QemUfJqnFW6D2X9Who6Gar7BItGLBZugm9U13CB8/G8w==",
+  "success": true,
+  "projectFilePath": "/Users/aymen/RiderProjects/JobnetPrompt/JobnetPrompt/JobnetPrompt.csproj",
+  "expectedPackageFiles": [
+    "/Users/aymen/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/aymen/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/aymen/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/aymen/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/aymen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/aymen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/aymen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
